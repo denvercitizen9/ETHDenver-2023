@@ -38,7 +38,7 @@ However you create the file, you'll see it contains a list of self-explanatory c
 
 ### Step 3: Create a Pull Request for Your File
 
-If you've created a fork you can go [here](https://github.com/SporkDAOOfficial/ETHDenver-2023/compare/main...SporkDAOOfficial:ETHDenver-2023:main) and select 'compare across forks' to identify your fork and submit your PR.  Your branch should only contain the file that you created in the previous step.
+Once you've created a fork you can go [here](https://github.com/SporkDAOOfficial/ETHDenver-2023/compare/main...SporkDAOOfficial:ETHDenver-2023:main) and select 'compare across forks' to identify your fork (on the right side) and submit your PR.  Your branch should only contain the file that you created in the previous step.
 
 ### Step 4: Link Your Pull Request to the Bounties You Won
 With your Pull request submitted you'll need to add a comment to your PR.  
