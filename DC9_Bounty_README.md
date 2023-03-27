@@ -39,23 +39,23 @@ For example, my team got third place for [Best Use of Existing Subgraph](https:/
 
 ### Step 2: Create Your Submission File
 
-You can create a file using [OpenQ's official docs](https://docs.openq.dev/hackathon-winner/project-submission/pull-request-your-project-submission#create-your-submission-as-a-new-file) or copy [my template](https://raw.githubusercontent.com/denvercitizen9/ETHDenver-2023/main/PROJECT_NAME_YOUR_NAME.md).  Note that you'll have to change the file name.  In my case, **PROJECT_NAME_YOUR_NAME.md** became **JankaScore_denvercitizen9.md**
+You can create this file in your own repo after Forking the SporkDAOOfficial GitHub, or you can follow [OpenQ's official docs] and use the UI to do the same thing.  
 
-You can create this file in your own repo after Forking the SporkDAOOfficial GitHub, or you can follow OpenQ's instructions and use the UI to do the same thing.  Note that you'll need your own new branch, because you won't be able to create a PR for main.  I chose violence and named my branch 'therearesomanystepstoclaimabounty'
+I've incldued a [template](https://raw.githubusercontent.com/denvercitizen9/ETHDenver-2023/main/PROJECT_NAME_YOUR_NAME.md) that you can use as a starting point.  Note that you'll need your own new branch, because you won't be able to create a PR for main.  I chose violence and named my branch 'therearesomanystepstoclaimabounty'
 
-However you create the file, you'll see it contains a list of self-explanatory comments; fill out your info.
+However you create the file, you'll see that the file contains a list of self-explanatory comments; fill out your info and save the file.  You will need to change the file name.  In my case, **PROJECT_NAME_YOUR_NAME.md** became **JankaScore_denvercitizen9.md** - this is the only file that you need for submission.
 
 ### Step 3: Create a Pull Request for Your File
 
-Once you've created a fork you can go [here](https://github.com/SporkDAOOfficial/ETHDenver-2023/compare/main...SporkDAOOfficial:ETHDenver-2023:main) and select 'compare across forks' to identify your fork (on the right side) and submit your PR.  Your branch should only contain the file that you created in the previous step.
+Once you've created a fork you can [go here to start a merge request](https://github.com/SporkDAOOfficial/ETHDenver-2023/compare/main...SporkDAOOfficial:ETHDenver-2023:main) and select 'compare across forks' to identify your fork (on the right side of the comparison) and submit your PR.  Your branch should only contain the file that you created in the previous step.
 
 ### Step 4: Link Your Pull Request to the Bounties You Won
-With your Pull request submitted you'll need to add a comment to your PR.  
+After your Pull request is submitted you need to add a comment to your PR.  
 
-Once you have your issue # (or #'s, you BAMF) you'll be able to follow the process on the [OpenQ Docs](https://docs.openq.dev/hackathon-winner/project-submission/pull-request-your-project-submission#link-your-pull-request-to-the-bounties-you-won) to add the comment to your PR.  Although GitHub will recognize such comments in the comment of the commit for the PR, I woulds still recommend following the instructions because this is how they want it and you want to avoid any reasons for delays.
+Once you have your issue # (or #'s, you BAMF) you'll be able to follow the process on the [OpenQ Docs](https://docs.openq.dev/hackathon-winner/project-submission/pull-request-your-project-submission#link-your-pull-request-to-the-bounties-you-won) to add the comment to your PR.  Although some of you may know GitHub will recognize such comments in the comment of the commit for the PR, I woulds still recommend following the instructions to avoid any reasons for delays.
 
-### Step 5: I've heard there are rumors of more things which you will need to do
-I'll update once I have more info.  I haven't received the email with instructions yet, but KYC is likely and I suspect there's another website you need to go to for that.  In any case, you do these steps now.
+### Step 5: I've heard there are rumors of more steps
+I'll update once I have more info.  I haven't received the email with instructions yet, but KYC is likely and I suspect there's another website you need to go to for that.  In any case, you can complete these steps now.
 	
 	
 	
