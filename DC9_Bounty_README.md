@@ -1,4 +1,4 @@
-# DC9's Guide to ETHDenver's 2023 Bounty Payments 
+# DC9's Guide to ETHDenver 2023 Bounty Payments 
 
 Congradulations to all the winners!  I put this together to help navigate the claim process.
 
