@@ -80,24 +80,22 @@ Follow the steps on the [OpenQ Claim Guide](https://docs.openq.dev/hackathon-win
 
 Providing some additional clarification that's not obvious in the docs.   
 
-At this point you'll need to navivate to [the hackathon on OpenQ's website](https://openq.dev/repo/SporkDAOOfficial/ETHDenver-2023) and find your bounty there.  The issue # that you entered originally won't work, so you'll have to search by name of the bounty.  I used what I thought was a unique word in the title of the bounty.  From there you can: 
+You'll need to navivate to [the hackathon on OpenQ's website](https://openq.dev/repo/SporkDAOOfficial/ETHDenver-2023) and find your bounty there.  The issue # that you entered originally won't work, so you'll have to search by name of the bounty.  I used what I thought was a unique word in the title of the bounty.  From there you can: 
  * Click on your bounty  
  * Click "Full Contract"  
  * Navigate to "Claim" tab  
  * Click button "Choose PDF File" and upload your w8/w9    
  
-At that point you will see a couple of additional messages:  
-"Thank you for submitting your tax form. Kindly note that OpenQ is not involved in the reviewing process, which may take up to 19 days. We appreciate your patience and will notify you as soon as the process is complete."  
+You will see a couple of additional messages:  
+"We have sent your tax document to the organization [ETHDenver]. Please wait until they have viewed and confirmed them. If they request changes, you will be notified via your contact email. If you have any questions, feel free to reach out in our Discord."   
 and  
-"We have sent your tax document to the organization. Please wait until they have viewed and confirmed them. If they request changes, you will be notified via your contact email. If you have any questions, feel free to reach out in our Discord."  
+"Thank you for submitting your tax form. Kindly note that OpenQ is not involved in the reviewing process, which may take up to 19 days. We appreciate your patience and will notify you as soon as the process is complete."  
 
-At this point you need ETHDenver to approve your tax documents before you can actually claim your bounty.    
+ETHDenver needs to approve your tax documents before you can claim your bounty.  According to recent emails the deadline for the approval to be complted is 5pm Mountain Time on June 19th, but the approval won't be sent to OpenQ for claiming until June 28th-30th.  This means you won't be notified before the deadline, even if the approval was successful.  I'm not sure what the process is if you are denied.  
+
+If the approvals are not complete in time then you may not find out until after the deadline has passed.  If you have submitted all of your documentation but haven't received a response from ETHDenver, I would recommend contacting them by email to ensure that the approvals are complete.  
 	
 ### Step 8 Claim Your Bounty  
 Follow the steps on the [OpenQ Claim Guide](https://docs.openq.dev/hackathon-winner/claim-your-prize-amount)
 
-I think after all of this I will be able to claim, but I can't claim yet because I'm still waiting on ETHDenver to approve my w8/w9 form.  I'll update again once confirmed that this is the last step.  
-
-	
-	
-	
+I think after all of this I will be able to claim, but I can't claim yet because I'm still waiting on ETHDenver to approve my w8/w9 form in OpenQ.  I'll update again if I find out there are any additional steps.  
